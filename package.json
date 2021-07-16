@@ -1,0 +1,27 @@
+{
+  "name": "cronos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cronosjs/cronos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cronosjs/cronos/issues"
+  },
+  "homepage": "https://github.com/cronosjs/cronos#readme",
+  "dependencies": {
+    "bufferutil": "^4.0.3",
+    "chalk": "^4.1.1",
+    "discord.js": "^13.0.0-dev.64f093f.1625054868",
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.13.0",
+    "utf-8-validate": "^5.0.5"
+  }
+}
